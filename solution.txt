@@ -1,0 +1,6 @@
+Crikey! I have lost my mojo!
+0 1 1 2 3 5
+1 626
+60 3
+5 115
+5 6 2 1 4 3
